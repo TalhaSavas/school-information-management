@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\SchoolInformationManagement.Core",
+    "\\src\\SchoolInformationManagement.DataAccess",
+    "\\src\\SchoolInformationManagement.DesktopApp",
+    "\\src\\SchoolInformationManagement.Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

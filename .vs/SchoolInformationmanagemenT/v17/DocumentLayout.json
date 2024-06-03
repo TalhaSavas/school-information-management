@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\VSWorkspaceState.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.desktopapp\\schoolinformationmanagement.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A8F4C1A2-F927-4D9B-8C5E-EE125D039E66}|src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj|solutionrelative:src\\schoolinformationmanagement.desktopapp\\schoolinformationmanagement.desktopapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.dataaccess\\abstract\\iclassdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|solutionrelative:src\\schoolinformationmanagement.dataaccess\\abstract\\iclassdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.dataaccess\\schoolinformationmanagement.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|solutionrelative:src\\schoolinformationmanagement.dataaccess\\schoolinformationmanagement.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA00981B-23F3-4844-AA33-8BFCC22E03E9}|src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.core\\schoolinformationmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA00981B-23F3-4844-AA33-8BFCC22E03E9}|src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj|solutionrelative:src\\schoolinformationmanagement.core\\schoolinformationmanagement.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|c:\\users\\asude\\desktop\\yeni klas\u00F6r (4)\\schoolinformationmanagementtt\\schoolinformationmanagement\\src\\schoolinformationmanagement.dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CE7770-9954-47EE-8C95-63D21D29F123}|src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj|solutionrelative:src\\schoolinformationmanagement.dataaccess\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VSWorkspaceState.json",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\.vs\\VSWorkspaceState.json",
+              "RelativeDocumentMoniker": ".vs\\VSWorkspaceState.json",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\.vs\\VSWorkspaceState.json",
+              "RelativeToolTip": ".vs\\VSWorkspaceState.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T20:06:35.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T18:48:48.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Properties\\Resources.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:48:47.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.resx",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-03T18:46:17.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.Designer.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:39:50.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Dashboard.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAI8BAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:39:47.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Login.Designer.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:39:46.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Login.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\Login.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\Login.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:39:44.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolInformationManagement.DesktopApp.csproj",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DesktopApp\\SchoolInformationManagement.DesktopApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T18:07:03.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IClassDal.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\Abstract\\IClassDal.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DataAccess\\Abstract\\IClassDal.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\Abstract\\IClassDal.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DataAccess\\Abstract\\IClassDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:06:57.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SchoolInformationManagement.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DataAccess\\SchoolInformationManagement.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T18:06:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolInformationManagement.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj",
+              "RelativeToolTip": "src\\SchoolInformationManagement.Core\\SchoolInformationManagement.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T18:06:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\Context.cs",
+              "RelativeDocumentMoniker": "src\\SchoolInformationManagement.DataAccess\\Context.cs",
+              "ToolTip": "C:\\Users\\asude\\Desktop\\Yeni klas\u00F6r (4)\\SchoolInformationmanagementtt\\SchoolInformationManagement\\src\\SchoolInformationManagement.DataAccess\\Context.cs",
+              "RelativeToolTip": "src\\SchoolInformationManagement.DataAccess\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:27:37.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
